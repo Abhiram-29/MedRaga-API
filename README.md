@@ -33,7 +33,7 @@ When a doctor queries the prototype, it retrieves the most relevant information 
 1. Clone the repository or download as zip and extract it.  
   
 ```  
-git clone https://github.com/omkar-334/MedRaga-API.git  
+git clone https://github.com/Abhiram-29/MedRaga-API  
 ```  
   
 2. Create a virtual environment  
